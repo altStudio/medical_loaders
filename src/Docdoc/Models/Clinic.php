@@ -72,9 +72,13 @@ class Clinic extends Model
     /**
      * @return int
      */
-    public function getDistrictId(): int
+    public function getDistrictId(): ?int
     {
-        return $this->get('DistrictId');
+        $district_id = $this->get('DistrictId');
+        if ($district_id === 'null') {
+            return null;
+        }
+        return $district_id;
     }
 
     /**
