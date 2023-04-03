@@ -7,7 +7,7 @@ This is where your description should go. Try and limit it to a paragraph or two
 You can install the package via composer:
 
 ```bash
-composer require altStudio/medical-loaders
+composer require alt-studio/medical-loaders
 ```
 
 ## Usage
