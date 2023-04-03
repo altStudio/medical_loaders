@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Veezex\Medical\Docdoc\Models;
+namespace AltStudio\Medical\Docdoc\Models;
 
 
 use Illuminate\Support\Collection;

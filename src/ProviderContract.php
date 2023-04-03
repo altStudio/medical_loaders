@@ -1,9 +1,9 @@
 <?php
 
-namespace Veezex\Medical;
+namespace AltStudio\Medical;
 
 use Illuminate\Support\Collection;
-use Veezex\Medical\Docdoc\Models\DoctorDetails;
+use AltStudio\Medical\Docdoc\Models\DoctorDetails;
 
 interface ProviderContract
 {

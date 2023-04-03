@@ -1,17 +1,17 @@
 {
-    "name": "veezex/medical-aggregators",
+    "name": "altStudio/medical-loaders",
     "description": "",
     "keywords": [
-        "veezex",
-        "medical-aggregators"
+        "altStudio",
+        "medical-loaders"
     ],
-    "homepage": "https://github.com/veezex/medical-aggregators",
+    "homepage": "https://github.com/altStudio/medical_loaders",
     "license": "MIT",
     "type": "library",
     "authors": [
         {
-            "name": "Vladimir Smirnov",
-            "email": "veez.ex@gmail.com",
+            "name": "navlis",
+            "email": "suvorov.alex93@gmail.com",
             "role": "Developer"
         }
     ],
@@ -27,12 +27,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Veezex\\Medical\\": "src"
+            "AltStudio\\Medical\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Veezex\\Medical\\Tests\\": "tests"
+            "AltStudio\\Medical\\Tests\\": "tests"
         }
     },
     "scripts": {
@@ -46,7 +46,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Veezex\\Medical\\MedicalAggregatorProvider"
+                "AltStudio\\Medical\\MedicalAggregatorProvider"
             ]
         }
     }

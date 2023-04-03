@@ -1,6 +1,6 @@
 <?php
 
-namespace Veezex\Medical;
+namespace AltStudio\Medical;
 
 use Illuminate\Support\ServiceProvider;
 
