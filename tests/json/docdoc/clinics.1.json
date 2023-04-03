@@ -1,0 +1,183 @@
+{
+    "Total": 1433,
+    "ClinicList": [
+        {
+            "Id": 44,
+            "Name": "МедЦентрСервис на Авиамоторной",
+            "ShortName": "МедЦентрСервис на Авиамоторной",
+            "RewriteName": "medtsentrservis_na_aviamotornoj",
+            "URL": "http://www.medcentrservis.ru",
+            "Longitude": "37.7165130000",
+            "Latitude": "55.7534580000",
+            "City": "Москва",
+            "Street": "ул. Авиамоторная",
+            "StreetId": "12",
+            "House": "д. 41Б",
+            "Description": "Многопрофильный медицинский центр. Диагностика и лечение взрослых. Расположен в 7 мин. ходьбы от м. Авиамоторная. Прием происходит по предварительной записи.",
+            "ShortDescription": "Многопрофильный медицинский центр. Диагностика и лечение взрослых. Расположен в 7 мин. ходьбы от м. Авиамоторная. Прием происходит по предварительной записи.",
+            "IsDiagnostic": "no",
+            "isClinic": "yes",
+            "IsDoctor": "no",
+            "Phone": "74952553137",
+            "PhoneAppointment": "+7 (495) 255-31-37; +7 (495) 104-77-99; +7 (495) 132-37-37; +7 (495) 151-23-32; +7 (495) 185-21-21",
+            "logoPath": "44.jpg",
+            "ScheduleState": "enable",
+            "DistrictId": "63",
+            "Email": "test@test.ru",
+            "ReplacementPhone": null,
+            "MinPrice": "1500",
+            "MaxPrice": "1500",
+            "Logo": "https://cdn.bookingtest.docdoc.pro/clinic/logo/min_44.jpg?1573413879",
+            "Stations": [
+                {
+                    "Id": "1",
+                    "Name": "Авиамоторная",
+                    "LineName": "Калининско-Солнцевская ",
+                    "LineColor": "ffdd03",
+                    "CityId": "1"
+                }
+            ],
+            "Specialities": [
+                {
+                    "Id": "70",
+                    "Name": "Венеролог",
+                    "Alias": "venerolog"
+                },
+                {
+                    "Id": "72",
+                    "Name": "Гинеколог",
+                    "Alias": "ginekolog"
+                },
+                {
+                    "Id": "73",
+                    "Name": "Дерматолог",
+                    "Alias": "dermatolog"
+                },
+                {
+                    "Id": "91",
+                    "Name": "Терапевт",
+                    "Alias": "terapevt"
+                },
+                {
+                    "Id": "93",
+                    "Name": "Уролог",
+                    "Alias": "urolog"
+                }
+            ],
+            "Services": {
+                "Total": 125,
+                "ServiceList": [
+                    {
+                        "ServiceId": 3821,
+                        "ServiceName": "Кольпоскопия расширенная",
+                        "Price": 1700,
+                        "SpecialPrice": null
+                    },
+                    {
+                        "ServiceId": 3841,
+                        "ServiceName": "Бужирование цервикального канала",
+                        "Price": 1000,
+                        "SpecialPrice": null
+                    },
+                    {
+                        "ServiceId": 3865,
+                        "ServiceName": "Подбор контрацепции",
+                        "Price": 1500,
+                        "SpecialPrice": null
+                    },
+                    {
+                        "ServiceId": 3819,
+                        "ServiceName": "Установка ВМС",
+                        "Price": 2500,
+                        "SpecialPrice": null
+                    },
+                    {
+                        "ServiceId": 3817,
+                        "ServiceName": "Удаление ВМС",
+                        "Price": 2500,
+                        "SpecialPrice": null
+                    },
+                    {
+                        "ServiceId": 3835,
+                        "ServiceName": "Медикаментозное прерывание беременности",
+                        "Price": 17000,
+                        "SpecialPrice": null
+                    },
+                    {
+                        "ServiceId": 3859,
+                        "ServiceName": "Раздельное диагностическое выскабливание",
+                        "Price": 4600,
+                        "SpecialPrice": null
+                    },
+                    {
+                        "ServiceId": 3849,
+                        "ServiceName": "Вскрытие абсцесса бартолиновой железы",
+                        "Price": 6200,
+                        "SpecialPrice": null
+                    },
+                    {
+                        "ServiceId": 4633,
+                        "ServiceName": "Посев на кандидоз",
+                        "Price": 750,
+                        "SpecialPrice": null
+                    },
+                    {
+                        "ServiceId": 4625,
+                        "ServiceName": "Посев на микоплазмы",
+                        "Price": 1200,
+                        "SpecialPrice": 1000
+                    }
+                ]
+            },
+            "Schedule": [
+                {
+                    "Day": "0",
+                    "StartTime": "00:00",
+                    "EndTime": "24:00",
+                    "DayTitle": "пн-пт"
+                },
+                {
+                    "Day": "6",
+                    "StartTime": "00:00",
+                    "EndTime": "24:00",
+                    "DayTitle": "сб"
+                },
+                {
+                    "Day": "7",
+                    "StartTime": "00:00",
+                    "EndTime": "24:00",
+                    "DayTitle": "вс"
+                }
+            ],
+            "Order": 1289.07,
+            "Rating": 9.04,
+            "TypeOfInstitution": "медицинская клиника",
+            "ParentId": 44,
+            "BranchesId": [
+                "250",
+                "251",
+                "252",
+                "253",
+                "254",
+                "255",
+                "256",
+                "257",
+                "258",
+                "259",
+                "260",
+                "2275",
+                "2276",
+                "15757",
+                "33033",
+                "42522"
+            ],
+            "LowCostDoctor": {
+                "Rating": 4.75,
+                "Price": 900
+            },
+            "HighlightDiscount": 0,
+            "RequestFormSurname": false,
+            "RequestFormBirthday": true
+        }
+    ]
+}

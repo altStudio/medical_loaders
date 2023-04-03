@@ -1,0 +1,26 @@
+{
+    "CityList": [
+        {
+            "Id": "1",
+            "Name": "Москва",
+            "Alias": "msk",
+            "Phone": null,
+            "Latitude": "55.755826",
+            "Longitude": "37.6173",
+            "SearchType": 3,
+            "HasDiagnostic": true,
+            "TimeZone": 0
+        },
+        {
+            "Id": "2",
+            "Name": "Санкт-Петербург",
+            "Alias": "spb",
+            "Phone": null,
+            "Latitude": "59.9342802",
+            "Longitude": "30.3350986",
+            "SearchType": 2,
+            "HasDiagnostic": true,
+            "TimeZone": 0
+        }
+    ]
+}
