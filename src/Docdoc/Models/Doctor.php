@@ -161,7 +161,7 @@ class Doctor extends Model
      */
     public function getExperienceYears(): int
     {
-        return $this->get('ExperienceYear');
+        return abs($this->get('ExperienceYear'));
     }
 
     /**
